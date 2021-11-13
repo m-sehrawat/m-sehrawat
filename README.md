@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Sehrawat</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack web developer from India</h3>
 
 - 🔭 I’m currently working on [Lybrate Website Clone](https://github.com/m-sehrawat/Lybrate-Website-Clone)
+- 🔭 I’ve completed [Adidas Website Clone](https://github.com/m-sehrawat/Adidas-Website-Clone)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
