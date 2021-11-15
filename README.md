@@ -23,18 +23,22 @@
 </p>
 
 <h3><i>GitHub's Stats:</i></h3>
+
 <p>
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="m-sehrawat" height="139"/></a><a href="https://github.com/m-sehrawat/Adidas-Website-Clone"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0" alt="m-sehrawat" height="139" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="m-sehrawat" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0" alt="m-sehrawat" height="139" />
 </p>
+
 
 <h3><i>Top Repositories:</i></h3>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>&nbsp; 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/></p>
-
-
+<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>
+</a>
+  <a href="https://github.com/m-sehrawat/Adidas-Website-Clone">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>
+</a>
+</p>
 
 
 
