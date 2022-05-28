@@ -33,8 +33,11 @@
 
 <h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <p align="left">
-<a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
+  <a href="https://github.com/m-sehrawat/Mini-Store" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Lybrate" /></a> 
+  <a href="https://github.com/m-sehrawat/Weather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
+  <a href="https://github.com/m-sehrawat/Translation-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
+<a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
+<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a>   
 <a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
 
