@@ -91,7 +91,7 @@
 
 
 
-<!----------------------------------- Project Section ------------------------------------>
+<!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
 
@@ -103,8 +103,8 @@
     <a href="https://twitter.com/MohitSehrawatt">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
     </a>
-    <a href="https://hashnode.com/@mohit-sehrawat">
-        <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="https://hashnode.com/@mohit-sehrawat" />
+    <a href="https://mohit-portfolio.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
     <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
