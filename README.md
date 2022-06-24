@@ -119,7 +119,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
 <br>
 
