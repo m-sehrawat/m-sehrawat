@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Masai School as an Instructional Associate</i>
+    <i>- Currently working at Kyndryl as a Full Stack Developer</i>
 </h3>
 <br>
 
