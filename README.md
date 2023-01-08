@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Kyndryl as a Full Stack Developer</i>
+    <i>- Currently working at Kyndryl as a Software Engineer</i>
 </h3>
 <br>
 
